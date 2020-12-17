@@ -1,3 +1,3 @@
-from .default_class import DownloadInfo, Image, Info
-from .request import Requester
+from .default_class import DownloadInfo, Image, RequestInfo
+from .request import Request
 from .utils import *
